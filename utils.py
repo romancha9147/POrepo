@@ -3,3 +3,4 @@ def new_calculate(x, y): return x ** y
 def multiply(a, b): return a * b
 def divide(a, b): return a / b if b != 0 else None
 # Version: 1.0
+def modulo(a, b): return a % b
