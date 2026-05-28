@@ -57,3 +57,4 @@ def crop_to_content(image_path, output_path, threshold=30):
 for i in range(17, 22):
     crop_to_content(f"C:/Users/Roman/Desktop/инфа/SuperCropper3000/images to crop/photo_{i}_2026-01-23_00-53-14.jpg", f"C:/Users/Roman/Desktop/инфа/SuperCropper3000/cropped images/cropphoto_{i}_2026-01-23_00-53-14.jpg")#new update
 #new test line
+print(операция прошла успешно)
