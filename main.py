@@ -3,3 +3,6 @@ def subtract(a, b): return a - b
 def power(a, b): return a ** b
 def calculate_sum(numbers):
     return sum(numbers)
+def add(a, b):
+    result = a + b
+    return result
