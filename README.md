@@ -3,3 +3,7 @@
 # new update
 # Новый раздел: Установка
 Для установки выполните: pip install -r requirements.txt
+
+## Функции
+- add(a, b) - сложение
+- multiply(a, b) - умножение
